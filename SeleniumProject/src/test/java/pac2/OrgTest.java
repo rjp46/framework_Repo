@@ -10,6 +10,6 @@ public class OrgTest {
 	
 	@Test
 	public void modifyOrgTest() {
-		System.out.println("Execute modifyOrgTest");
+		System.out.println("Execute ModifyOrgTest");
 	}
 }
