@@ -14,11 +14,11 @@ public class ContactTest {
 		System.out.println(BROWSER);
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
-		System.out.println("Execute createContactTest");
+		System.out.println("Execute CreateContactTest");
 	}
 	
 	@Test
 	public void modifyContactTest() {
-		System.out.println("Execute modifyContactTest");
+		System.out.println("Execute ModifyContactTest");
 	}
 }
